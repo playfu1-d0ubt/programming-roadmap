@@ -12,7 +12,7 @@ My goal is a strong portfolio of small, finished projects, with biomedical robot
 | 1 | Publish what exists | Done (5 projects) |
 | 2 | Fill the gaps (assorted skills) | Done (4 projects) |
 | 3 | Robotics specialism | Done (3 projects) |
-| 4 | Professional polish | In progress (1 of 2 done) |
+| 4 | Professional polish | Paused (1 of 2 done)  |
 | 5 | Builder projects (after Phase 4) | Planned (19 projects, in 4 stages) |
 
 ---
@@ -61,7 +61,7 @@ The flagship uses synthetic data and is a learning simulation, not a medical dev
 | # | Project | Status | Skills | Finished |
 | --- | --- | --- | --- | --- |
 | 13 | Tests and CI on Price Tracker and Song Quiz | Done | `pytest`, GitHub Actions | 02/11/26 |
-| 14 | Beginner Python lessons repo | Next | Explaining ideas step by step, exercises with solutions | |
+| 14 | Beginner Python lessons repo | Paused | Explaining ideas step by step, exercises with solutions | |
 
 ## Phase 5: Builder projects
 

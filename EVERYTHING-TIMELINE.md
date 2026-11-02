@@ -5,7 +5,7 @@ A condensed personal roadmap for programming upskilling. The full exercise roadm
 ## Current position
 
 - **Core exercises:** Phases 1 to 13 are complete.
-- **Projects:** Project Phase 3 is Done. Phase 4 is in progress (#13 done, #14 next).
+- **Projects:** Project Phase 3 is Done. Phase 4 is in progress (#13 done, #14 paused).
 - **Stretch tasks:** Rounds 1 to 3 are complete.
 - **Long-term direction:** Build a strong portfolio with a focus on biomedical robotics software.
 
@@ -96,7 +96,7 @@ The flagship uses synthetic data and is a learning simulation, not a medical dev
 ### 3. Complete Project Phase 4: Professional polish
 
 - [x] **Add tests and CI to Price Tracker and Song Quiz:** `pytest` and GitHub Actions (02/11/26).
-- [ ] **Create a beginner Python lessons repository:** explain concepts step by step and provide exercises with solutions.
+- [ ] **Create a beginner Python lessons repository:** explain concepts step by step and provide exercises with solutions. *PAUSED*
 
 ### 4. Refresh the stretch tasks
 
