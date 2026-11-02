@@ -170,7 +170,6 @@ Keep these as a backlog, not as current tasks.
 - **Keep the portfolio current:** when a project is finished, update its status, completion date, README and GitHub profile as appropriate.
 - **Keep optional work optional:** do not let the Stage 5D backlog distract from the robotics specialism.
 
-
 ## Source files
 
 Use the original files for full details and checklists:
