@@ -12,14 +12,22 @@ programming-roadmap/
 ├── README.md
 ├── CLAUDE.md
 ├── EVERYTHING-TIMELINE.md
+├── cheatsheets/
+│   ├── edge-case-cheat-sheet.md
+│   └── terminal-project-cheatsheet.md
 ├── roadmaps/
 │   ├── project-timeline.md
 │   └── exercises-roadmap-and-instructions.md
-├── tracking/
-│   └── stretch-tasks.md
-└── templates/
-    ├── project-template.md
-    └── exercise-phase-template.md
+├── scripts/
+│   ├── .bashrc # contains new project script
+│   ├── add-licence.sh
+│   ├── fresh-clone.sh
+│   └── new_phase.sh
+├── templates/
+│   ├── project-template.md
+│   └── exercise-phase-template.md
+└── tracking/
+    └── stretch-tasks.md
 ```
 
 ## What each file is for
