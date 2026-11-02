@@ -170,13 +170,6 @@ Keep these as a backlog, not as current tasks.
 - **Keep the portfolio current:** when a project is finished, update its status, completion date, README and GitHub profile as appropriate.
 - **Keep optional work optional:** do not let the Stage 5D backlog distract from the robotics specialism.
 
-## Current focus at a glance
-
-**Now:** Project #14, the beginner Python lessons repo (last project in Phase 4, Professional polish).
-
-**Next:** Refresh the stretch tasks.
-
-**Then:** Refresh stretch tasks, complete them, then return to exercises and builder projects.
 
 ## Source files
 
