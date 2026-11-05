@@ -25,7 +25,7 @@ List refreshed 02/11/26. Project #14 (beginner Python lessons repo) is paused, n
 - [ ] S: Update the action versions in each `tests.yml` to clear the Node.js warning (check each action's releases page for the current version first)
 - [ ] M: Add a `tests.yml` (pytest and ruff) to Task Tracker, Heart-Rate Analyser, Line-Following and Prosthetic Hand, copied from Price Tracker (Heart-Rate done 02/11/26, Line-Following and Prosthetic Hand done 05/11/26. Task Tracker waits for its tests)**(Round 4)**
 - [x] S: Check charts, GIFs and plots in Robot Arm IMU Analysis, Heart-Rate Analyser, Line-Following and Prosthetic Hand are readable in dark mode
-- [ ] M: Add docstrings and type hints to the main functions in the six oldest repos (CSV Cleaner and Price Tracker docstrings done 05/11/26, type hints not yet)
+- [ ] M: Add docstrings and type hints to the main functions in the six oldest repos (CSV Cleaner, Price Tracker and Discord Bot docstrings done 05/11/26, type hints not yet)
 - [x] S: Check every README's "how to run" from a fresh clone
 ## CSV Cleaner
  
@@ -71,7 +71,7 @@ List refreshed 02/11/26. Project #14 (beginner Python lessons repo) is paused, n
  
 - [ ] M: Add slash commands (`/help`) alongside the `!` commands
 - [ ] M: Split commands into cogs
-- [ ] S: Add `logging` for errors and command usage **(Round 4)**
+- [x] S: Add `logging` for errors and command usage (done 05/11/26)
 - [ ] M: Write up how to keep it running for free (a `systemd` service on my own machine)
 - [x] S: Check that no token or ID is anywhere in the git history
 ## GitHub profile README
