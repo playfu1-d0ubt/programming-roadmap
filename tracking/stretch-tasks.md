@@ -25,7 +25,7 @@ List refreshed 02/11/26. Project #14 (beginner Python lessons repo) is paused, n
 - [ ] S: Update the action versions in each `tests.yml` to clear the Node.js warning (check each action's releases page for the current version first)
 - [ ] M: Add a `tests.yml` (pytest and ruff) to Task Tracker, Heart-Rate Analyser, Line-Following and Prosthetic Hand, copied from Price Tracker (Heart-Rate done 02/11/26, Line-Following and Prosthetic Hand done 05/11/26. Task Tracker waits for its tests)**(Round 4)**
 - [x] S: Check charts, GIFs and plots in Robot Arm IMU Analysis, Heart-Rate Analyser, Line-Following and Prosthetic Hand are readable in dark mode
-- [ ] M: Add docstrings and type hints to the main functions in the six oldest repos (CSV Cleaner docstrings done 05/11/26, type hints not yet)
+- [ ] M: Add docstrings and type hints to the main functions in the six oldest repos (CSV Cleaner and Price Tracker docstrings done 05/11/26, type hints not yet)
 - [x] S: Check every README's "how to run" from a fresh clone
 ## CSV Cleaner
  
@@ -49,7 +49,7 @@ List refreshed 02/11/26. Project #14 (beginner Python lessons repo) is paused, n
 - [ ] M: Test `fetch_page` by replacing `requests.get` with a stand-in (`monkeypatch`), to cover the 404, timeout and connection error messages
 - [ ] M: Chart the price history for a product with `matplotlib`
 - [ ] M: Move the list of products and settings into a config file
-- [ ] S: Replace `print` with the `logging` module **(Round 4)**
+- [x] S: Replace `print` with the `logging` module (done 05/11/26. Result lines stay `print`, `sys.exit` errors unchanged)
 - [ ] M: Send a notification when a price drops (Discord webhook is free; email also works)
 - [ ] M: Handle a page layout changing without crashing, and say what went wrong (already shows a clear message; check it covers every case)
 - [x] S: Document the cron setup in the README
