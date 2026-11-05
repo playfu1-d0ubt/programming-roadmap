@@ -11,7 +11,7 @@ List refreshed 02/11/26. Project #14 (beginner Python lessons repo) is paused, n
 - Round 1: safety checks (Discord Bot token check, Song Quiz passwords) - done
 - Round 2: repo polish (`LICENSE`, README sections, topics and About, fresh clone test) - done
 - Round 3: profile and portfolio (profile README, pinned repos, links, phone-size test, favicon and 404) - done
-- Round 4: small quick wins inside each project - next
+- Round 4: small quick wins inside each project - In progress
 ---
  
 ## Across every project
@@ -25,12 +25,12 @@ List refreshed 02/11/26. Project #14 (beginner Python lessons repo) is paused, n
 - [ ] S: Update the action versions in each `tests.yml` to clear the Node.js warning (check each action's releases page for the current version first)
 - [ ] M: Add a `tests.yml` (pytest and ruff) to Task Tracker, Heart-Rate Analyser, Line-Following and Prosthetic Hand, copied from Price Tracker (Heart-Rate done 02/11/26, Line-Following and Prosthetic Hand done 05/11/26. Task Tracker waits for its tests)**(Round 4)**
 - [x] S: Check charts, GIFs and plots in Robot Arm IMU Analysis, Heart-Rate Analyser, Line-Following and Prosthetic Hand are readable in dark mode
-- [ ] M: Add docstrings and type hints to the main functions in the six oldest repos
+- [ ] M: Add docstrings and type hints to the main functions in the six oldest repos (CSV Cleaner docstrings done 05/11/26, type hints not yet)
 - [x] S: Check every README's "how to run" from a fresh clone
 ## CSV Cleaner
  
 - [ ] M: Add `pytest` tests using small fake CSV files
-- [ ] S: Add a `--dry-run` option that reports what would change without writing anything **(Round 4)**
+- [x] S: Add a `--dry-run` option that reports what would change without writing anything (done 05/11/26)
 - [ ] M: Print a summary of what was fixed (already shows rows in/out and duplicates; add rows changed)
 - [ ] M: Handle different encodings and delimiters (semicolons, tabs)
 - [ ] M: Accept `.xlsx` files as input as well as CSV
