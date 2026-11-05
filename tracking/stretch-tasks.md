@@ -20,11 +20,11 @@ List refreshed 02/11/26. Project #14 (beginner Python lessons repo) is paused, n
 - [x] S: Make sure each README has the same sections: what it does, how to run, limitations, what I learned
 - [ ] S: Add a screenshot or short GIF to each README that lacks one
 - [x] S: Add GitHub topics and an About description to every repo
-- [ ] S: Run `ruff check` on the six oldest repos and fix what it finds (newer repos should pass already)
+- [x] S: Run `ruff check` on the six oldest repos and fix what it finds (newer repos should pass already)
 - [ ] S: Add a `ruff check` step to the `tests.yml` workflow in Price Tracker and Song Quiz, so CI catches style problems as well as failing tests
 - [ ] S: Update the action versions in each `tests.yml` to clear the Node.js warning (check each action's releases page for the current version first)
-- [ ] M: Add a `tests.yml` (pytest and ruff) to Task Tracker, Heart-Rate Analyser, Line-Following and Prosthetic Hand, copied from Price Tracker **(Round 4)**
-- [ ] S: Check charts, GIFs and plots in Robot Arm IMU Analysis, Heart-Rate Analyser, Line-Following and Prosthetic Hand are readable in dark mode
+- [ ] M: Add a `tests.yml` (pytest and ruff) to Task Tracker, Heart-Rate Analyser, Line-Following and Prosthetic Hand, copied from Price Tracker (Heart-Rate done 02/11/26, Line-Following and Prosthetic Hand done 05/11/26. Task Tracker waits for its tests)**(Round 4)**
+- [x] S: Check charts, GIFs and plots in Robot Arm IMU Analysis, Heart-Rate Analyser, Line-Following and Prosthetic Hand are readable in dark mode
 - [ ] M: Add docstrings and type hints to the main functions in the six oldest repos
 - [x] S: Check every README's "how to run" from a fresh clone
 ## CSV Cleaner
