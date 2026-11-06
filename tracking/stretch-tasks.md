@@ -91,16 +91,16 @@ List refreshed 02/11/26. Project #14 (beginner Python lessons repo) is paused, n
  
 - [ ] M: Compare IMU motion with the robot's own data (`robot-triangle-150.csv`): line up the clocks, then compare movement
 - [ ] M: Find out why the spikes appear one after another along the arm (digitus, carpus, radius, humerus)
-- [ ] S: Confirm the gyroscope units in the dataset documentation and state them in the README **(Round 4)**
+- [x] S: Confirm the gyroscope units in the dataset documentation and state them in the README **(Round 4)**
 - [ ] M: Test whether the offsets stay the same on another recording
 - [ ] M: Work out each segment's tilt from the accelerometer and gyroscope (a complementary filter)
 - [ ] M: Add `pytest` tests for `magnitude` and `remove_offset`
 - [ ] S: Add a Jupyter notebook version that walks through the findings
 ## Excel Report Generator
  
-- [ ] S: Add a totals row and conditional formatting (highlight the best month) **(Round 4)**
+- [x] S: Add a totals row and conditional formatting (highlight the best month) (done 06/11/26. Totals on all three sheets, best row highlighted on all three)
+- [x] S: Flag a partial final month in the report itself (done 06/11/26. Note column on the By month sheet)
 - [ ] M: Add month-over-month change to the "By month" sheet
-- [ ] S: Flag a partial final month in the report itself **(Round 4)**
 - [ ] M: Add `--from` and `--to` date options
 - [ ] M: Let the column names be set in a config file or options
 - [ ] S: Open the output in LibreOffice Calc (free) and note the result in the README
